@@ -6,5 +6,6 @@ int main()
   c=a+b;
   printf("The sum of two numbers are",c);
   return 0;
+  return 1;
 
 }  
