@@ -4,5 +4,8 @@ int main()
   int a,b,c;
    c= a+b;
   printf("addition of two numbers is ",c);
+#subtraction of two numbers
+   c= a-b;
+  printf("subtraction of two numbers is ",c);
 }
 
